@@ -1,0 +1,48 @@
+
+
+#contenidos {
+	width: 800px;
+	height: 200px;
+	margin: auto;
+	position: relative;
+	background: orange;
+}
+
+body{
+background-image: url(../img/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+font-family:'Franklin Ghotic Heavy', sans-serif;
+margin-left: 15px;
+font-size: 50px;
+text-align: center;
+}
+
+h2{
+font-family:'Angsana New', serif;
+margin-left: 20px;
+font-size: 80px;
+text-align: left;
+}
+
+nav{
+width: 800px;
+height: 150px;
+background: red;
+}
+
+ul{
+margin: auto;
+padding-top: 10px;
+}
+
+li{
+float: right;
+list-style-type: none;
+padding: 5px;
+background: white;
+margin: 5px;
+}
